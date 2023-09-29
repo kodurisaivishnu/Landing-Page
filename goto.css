@@ -1,0 +1,21 @@
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+h1
+{
+    /* height: 20px; */
+    background-color: rgb(147, 110, 182);
+    font-style: italic;
+    color: #fff;
+    font-size: 100px;
+}
